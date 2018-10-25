@@ -1,0 +1,1778 @@
+Testing Output File
+****** Round 1 ********
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(0) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
+Mage Macros the Black Ver(0) Wins 
+[[unisa.pf.assign02.characters.Mage@140e19d]]
+****************************************************
+
+
+
+****** Round 2 ********
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(1) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
+Mage Macros the Black Ver(1) Wins 
+[[unisa.pf.assign02.characters.Mage@17327b6]]
+****************************************************
+
+
+
+****** Round 3 ********
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(2) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
+Mage Macros the Black Ver(2) Wins 
+[[unisa.pf.assign02.characters.Mage@14ae5a5]]
+****************************************************
+
+
+
+****** Round 4 ********
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(3) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Wosh
+
+
+Mage Macros the Black Ver(3) Wins 
+[[unisa.pf.assign02.characters.Mage@131245a]]
+****************************************************
+
+
+
+****** Round 5 ********
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Chatter Boom
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Warble
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Wosh
+
+
++++New Turn+++
+[[Mage Turn]]Macros the Black Ver(4) is rests
+
+[[Warrior Turn]]Clink
+
+
++++New Turn+++
+[[Mage Turn]]Crackle Boom
+
+[[Warrior Turn]]Clink
+
+
+Mage Macros the Black Ver(4) Wins 
+[[unisa.pf.assign02.characters.Mage@16f6e28]]
+****************************************************
+
+
+
+Mage :5
+Warrior :0
+Killed Each Other :0
+
+
+
+Debug Structure Code Below
+X Deal Damage
+Wosh
+
+X Receive Damage
+
+W Receive Damage
+Jon-Tom is rests
